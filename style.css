@@ -1,0 +1,47 @@
+
+.roboto-font {
+    font-family: 'Roboto', sans-serif;
+}
+.bebas-font{
+    font-family: 'Bebas Neue', cursive;
+}
+h1{
+    font-size: 80px;
+    line-height: 80px;
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+}
+p{
+    color: #3E3E3E;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
+a{
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+.button-design{
+    background-image: linear-gradient(#ff8063 , #f46060);
+    height: 60px;
+    width: 170px;
+    border-radius: 6px;
+    padding: 17px 45px;
+    
+
+}
+.tomato-color{
+    color: #ff8367;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+    margin-bottom: 50px;
+}
+.half-width img{
+    width: 100%;
+}
